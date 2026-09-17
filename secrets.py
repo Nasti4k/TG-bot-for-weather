@@ -1,0 +1,1 @@
+secrets = {'BOT_API_TOKEN': 'ваш_токен_telegram_бота','API_WEATHER': 'ваш_ключ_openweathermap'}
